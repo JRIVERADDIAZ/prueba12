@@ -1,0 +1,1 @@
+rm -docker run --p 8080:80 -v C:\Users\JOVAHIN\Desktop\docker-statick\web:/usr/share/nginx/html nginx
